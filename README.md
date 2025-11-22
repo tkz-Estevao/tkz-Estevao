@@ -15,8 +15,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkz-Estevao&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html&theme=dracula)
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
