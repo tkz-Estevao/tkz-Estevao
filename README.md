@@ -1,4 +1,8 @@
-Olá, tudo bem? Me chamo Estevão!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=800&lines=%E2%8A%B9+Welcome+to+my+profile!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F7193C&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Estev%C3%A3o!" alt="Typing SVG">
+  </a>
+</div>
 
 - 🔭 Atualmente estou trabalhando com desenvolvimento de planilhas de dados e projetos na área de desenvolvimento.
 - 🌱 Estou atualmente aprendendo C# e JAVA.
@@ -7,6 +11,8 @@ Olá, tudo bem? Me chamo Estevão!
 - 💬 Me pergunte qualquer coisa.
 - 📫 Entre em contato comigo através do meu email: estevaoufrjfarm@gmail.com
 - ⚡ Fato curioso: peguei gosto por computadores desde o primeiro uso.
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkz-Estevao&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -24,3 +30,8 @@ Olá, tudo bem? Me chamo Estevão!
   <a href = "mailto:estevaoufrjfarm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
